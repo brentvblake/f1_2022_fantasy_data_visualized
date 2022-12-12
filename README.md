@@ -5,8 +5,8 @@ I then used the data to display how the rankings and point breakdown changed thr
 
 ## Libraries used:
 
--pandas
--matplotlib.pyplot
--seaborn
--BeautifulSoup
--requests
+- pandas
+- matplotlib.pyplot
+- seaborn
+- BeautifulSoup
+- requests
