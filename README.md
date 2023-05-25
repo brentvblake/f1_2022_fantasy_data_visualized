@@ -20,30 +20,30 @@ The main purpose of this project was to better understand the performance and sc
 
 This visualization gives a glimpse of all contenders' performance over the league.
 
-![All Contenders Line Graph Light](visuals/allBright.png)
+![All Contenders Line Graph Light](Visuals/allBright.png)
 
 ### All Contenders Line Graph (Dark Theme)
 
 This graph presents the same information as above but in a dark theme for better accessibility and viewing comfort.
 
-![All Contenders Line Graph Dark](visuals/allDark.png)
+![All Contenders Line Graph Dark](Visuals/allDark.png)
 
 ### Specific Comparison: My Friend and I
 
 This graph offers a direct comparison between my performance and my friend's performance in the league.
 
-![Specific Comparison](visuals/compare.png)
+![Specific Comparison](Visuals/compare.png)
 
 ### Top 9 Contenders' Subplots
 
 This series of subplots provides a more detailed view into the top 9 contenders' performance.
 
-![Top 9 Subplots](visuals/subplots.png)
+![Top 9 Subplots](Visuals/subplots.png)
 
 ### Top 25 Contenders' Subplots
 
 This series of subplots goes even further, detailing the performance of the top 25 contenders.
 
-![Top 25 Subplots](visuals/top25.png)
+![Top 25 Subplots](Visuals/top25.png)
 
 
