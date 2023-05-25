@@ -2,7 +2,7 @@
 
 This project is a visualization of Fantasy Points for the F1 2022 season from a fantasy league I was part of on kicktipp.com. I used Python libraries like Pandas, Matplotlib, Seaborn, BeautifulSoup, and Requests for data scraping, manipulation, and visualization.
 
-![Header Image](visuals/allBright.png)
+![Header Image](Visuals/top10.png)
 
 ## Project Overview
 
